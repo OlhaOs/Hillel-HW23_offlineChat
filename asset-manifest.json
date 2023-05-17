@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hillel-HW23_offlineChat/static/css/main.343a7a42.css",
+    "main.js": "/Hillel-HW23_offlineChat/static/js/main.c210f2bf.js",
+    "static/media/R2D2.png": "/Hillel-HW23_offlineChat/static/media/R2D2.b1381568665d61b070f4.png",
+    "static/media/black-gc1d18cf8f_1280.jpg": "/Hillel-HW23_offlineChat/static/media/black-gc1d18cf8f_1280.8f56d63afff4e2d2d112.jpg",
+    "static/media/DarthVader.png": "/Hillel-HW23_offlineChat/static/media/DarthVader.adefc8a4c70e972321f3.png",
+    "static/media/C3PO.png": "/Hillel-HW23_offlineChat/static/media/C3PO.7f03ada5f4e7a79230f2.png",
+    "static/media/LuckSkywalker.png": "/Hillel-HW23_offlineChat/static/media/LuckSkywalker.b4bb6a147d1c8bdfdc8c.png",
+    "static/media/ObiWanKenobi.png": "/Hillel-HW23_offlineChat/static/media/ObiWanKenobi.0566c7ada2c5e7be4b34.png",
+    "index.html": "/Hillel-HW23_offlineChat/index.html",
+    "main.343a7a42.css.map": "/Hillel-HW23_offlineChat/static/css/main.343a7a42.css.map",
+    "main.c210f2bf.js.map": "/Hillel-HW23_offlineChat/static/js/main.c210f2bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.343a7a42.css",
+    "static/js/main.c210f2bf.js"
+  ]
+}
